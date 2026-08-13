@@ -1,0 +1,28 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "authorship_tag": "ABX9TyO597Tju5mPD2ZdJ/Y7Eb4v"
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "code",
+      "source": [],
+      "metadata": {
+        "id": "lQFbMfVYaBFG"
+      },
+      "execution_count": null,
+      "outputs": []
+    }
+  ]
+}
